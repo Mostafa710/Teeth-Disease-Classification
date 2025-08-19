@@ -43,7 +43,7 @@ This project is a **Deep Learning-based Teeth Disease Classifier** built using *
 ### 1️⃣ Clone the repository
 ```
 git clone https://github.com/Mostafa710/Teeth-Disease-Classification.git
-cd Teeth-DiseaseClassification
+cd Teeth-Disease-Classification
 ```
 
 ### 2️⃣ Install dependencies
