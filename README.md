@@ -82,3 +82,5 @@ Upload a tooth image through the app interface and get:
 For questions or collaboration, feel free to connect:
 
 [LinkedIn](https://www.linkedin.com/in/mostafa-mamdouh-80b110228) | [Email](mailto:mostafamamdouh710@gmail.com)
+
+---
